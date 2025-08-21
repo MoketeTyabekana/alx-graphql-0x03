@@ -1,3 +1,6 @@
+
+import React, { ReactNode } from 'react';
+
 interface State {
   hasError: boolean;
 }

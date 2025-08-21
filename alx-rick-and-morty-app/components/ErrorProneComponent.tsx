@@ -7,7 +7,7 @@ class ErrorProneComponent extends React.Component {
   }
 
   render() {
-    return <div>This is a test error! (Replace with your fallback UI)</div>;
+    return <div>This is a test error</div>;
   }
 }
 
